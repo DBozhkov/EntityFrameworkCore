@@ -1,0 +1,11 @@
+C:\Users\Dimitar\Documents\temp\MusicHub\obj\Debug\netcoreapp2.2\MusicHub.csprojAssemblyReference.cache
+C:\Users\Dimitar\Documents\temp\MusicHub\obj\Debug\netcoreapp2.2\MusicHub.csproj.CoreCompileInputs.cache
+C:\Users\Dimitar\Documents\temp\MusicHub\obj\Debug\netcoreapp2.2\MusicHub.AssemblyInfoInputs.cache
+C:\Users\Dimitar\Documents\temp\MusicHub\obj\Debug\netcoreapp2.2\MusicHub.AssemblyInfo.cs
+C:\Users\Dimitar\Documents\temp\MusicHub\bin\Debug\netcoreapp2.2\MusicHub.deps.json
+C:\Users\Dimitar\Documents\temp\MusicHub\bin\Debug\netcoreapp2.2\MusicHub.runtimeconfig.json
+C:\Users\Dimitar\Documents\temp\MusicHub\bin\Debug\netcoreapp2.2\MusicHub.runtimeconfig.dev.json
+C:\Users\Dimitar\Documents\temp\MusicHub\bin\Debug\netcoreapp2.2\MusicHub.dll
+C:\Users\Dimitar\Documents\temp\MusicHub\bin\Debug\netcoreapp2.2\MusicHub.pdb
+C:\Users\Dimitar\Documents\temp\MusicHub\obj\Debug\netcoreapp2.2\MusicHub.dll
+C:\Users\Dimitar\Documents\temp\MusicHub\obj\Debug\netcoreapp2.2\MusicHub.pdb
