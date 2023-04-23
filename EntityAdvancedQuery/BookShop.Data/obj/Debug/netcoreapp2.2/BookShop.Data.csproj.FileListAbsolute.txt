@@ -1,0 +1,14 @@
+C:\Users\Dimitar\source\repos\EntityAdvancedQuery\BookShop.Data\bin\Debug\netcoreapp2.2\BookShop.Data.deps.json
+C:\Users\Dimitar\source\repos\EntityAdvancedQuery\BookShop.Data\bin\Debug\netcoreapp2.2\BookShop.Data.runtimeconfig.json
+C:\Users\Dimitar\source\repos\EntityAdvancedQuery\BookShop.Data\bin\Debug\netcoreapp2.2\BookShop.Data.runtimeconfig.dev.json
+C:\Users\Dimitar\source\repos\EntityAdvancedQuery\BookShop.Data\bin\Debug\netcoreapp2.2\BookShop.Data.dll
+C:\Users\Dimitar\source\repos\EntityAdvancedQuery\BookShop.Data\bin\Debug\netcoreapp2.2\BookShop.Data.pdb
+C:\Users\Dimitar\source\repos\EntityAdvancedQuery\BookShop.Data\bin\Debug\netcoreapp2.2\BookShop.Models.dll
+C:\Users\Dimitar\source\repos\EntityAdvancedQuery\BookShop.Data\bin\Debug\netcoreapp2.2\BookShop.Models.pdb
+C:\Users\Dimitar\source\repos\EntityAdvancedQuery\BookShop.Data\obj\Debug\netcoreapp2.2\BookShop.Data.csprojAssemblyReference.cache
+C:\Users\Dimitar\source\repos\EntityAdvancedQuery\BookShop.Data\obj\Debug\netcoreapp2.2\BookShop.Data.csproj.CoreCompileInputs.cache
+C:\Users\Dimitar\source\repos\EntityAdvancedQuery\BookShop.Data\obj\Debug\netcoreapp2.2\BookShop.Data.AssemblyInfoInputs.cache
+C:\Users\Dimitar\source\repos\EntityAdvancedQuery\BookShop.Data\obj\Debug\netcoreapp2.2\BookShop.Data.AssemblyInfo.cs
+C:\Users\Dimitar\source\repos\EntityAdvancedQuery\BookShop.Data\obj\Debug\netcoreapp2.2\BookShop.Data.csproj.CopyComplete
+C:\Users\Dimitar\source\repos\EntityAdvancedQuery\BookShop.Data\obj\Debug\netcoreapp2.2\BookShop.Data.dll
+C:\Users\Dimitar\source\repos\EntityAdvancedQuery\BookShop.Data\obj\Debug\netcoreapp2.2\BookShop.Data.pdb
